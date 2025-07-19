@@ -3,7 +3,7 @@
 
 # 🌟 My Salesforce Certified Administrator Journey
 
-Welcome! 👋 I'm Elmo, a recent IT graduate with a focus on Software Development, currently working toward becoming a **Salesforce Certified Administrator**. 
+Welcome! 👋 I'm Seulgi, a recent IT graduate with a focus on Software Development, currently working toward becoming a **Salesforce Certified Administrator**. 
 
 This repository tracks my learning progress, study notes, practice exercises, and hands-on Salesforce projects as I prepare for the **Salesforce Administrator Certification**.
 
@@ -23,30 +23,18 @@ This repository tracks my learning progress, study notes, practice exercises, an
 - 🌱 [Trailhead: Prepare for Your Salesforce Administrator Credential]
 - 🌱 [Trailhead: Study for the Administrator Certification Exam]
      (https://trailhead.salesforce.com)
-- 🛠 Salesforce Trailhead Playground (hands-on practice)
 
 ---
 
 ## ✅ Certification Goal
 
-I’m aiming to pass the **Salesforce Certified Administrator Examv by August 30, 2025. 
+I’m aiming to pass the **Salesforce Certified Administrator Exam by August 30, 2025. 
 My goals are:
 
 - ✔️ Understand core Salesforce concepts
 - ✔️ Complete key Trailhead Superbadges
 - ✔️ Build 1–2 hands-on mini-projects in Salesforce
 - ✔️ Share my journey openly on GitHub and LinkedIn
-
----
-
-## 🧠 Current Focus Areas
-
-| Topic | Status | Notes |
-|-------|--------|-------|
-| Company Settings | ✅ Completed notes and Playground practice |
-| User Setup | ✅ In progress |
-| Data Security | ⏳ Next topic |
-| Reports & Dashboards | ⏳ Coming soon |
 
 ---
 
