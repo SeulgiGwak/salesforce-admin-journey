@@ -10,6 +10,16 @@ This plan helps me track weekly goals across:
 
 ---
 
+## ❗ Salesforce Administrator exam key topics
+Configuration and setup 20%
+Object Manager and Lightning App Builder 20%
+Sales and marketing applications 12%
+Service and support applications 11%
+Productivity and collaboration 7%
+Data and analytics management 14%
+Workflow/process automation 16%
+---
+
 ## ✅ Weekly Plan
 
 ### Week 1: User Setup & Org Basics
