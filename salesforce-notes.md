@@ -15,17 +15,17 @@ Determine the appropriate use of a custom profile or permission set using the va
 This unit prepares you for the configuration and setup section of the Salesforce Administrator exam, which makes up 20% of the overall exam. This section of the exam tests these topics.
 
 ### UI features
-Company information
-Locale settings
-Search results
-List views
-Currency management
-Fiscal year
-Default settings
-Homepage layouts
-User management
-Security settings
-Sharing settings
+- Company information
+- Locale settings
+- Search results
+- List views
+- Currency management
+- Fiscal year
+- Default settings
+- Homepage layouts
+- User management
+- Security settings
+- Sharing settings
 
 ---
 
