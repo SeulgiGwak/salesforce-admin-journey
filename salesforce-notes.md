@@ -29,7 +29,8 @@ After completing this unit, you'll be able to:
 
 ---
 
-* Specify Company information page - organisation name, default time zone, default language
+#### Specify Company information page 
+- organisation name, default time zone, default language
 
 * Parameters that are configured using the Locale Setting
 - Time and Number display format 
