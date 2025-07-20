@@ -4,15 +4,15 @@
 Learning Objectives
 After completing this unit, you'll be able to:
 
-Describe the options found in the company settings.
-Distinguish and understand the administration of the declarative configuration of the user interface.
-Demonstrate the proper setup and maintenance of users.
-Explain the various organization security controls.
-Apply the appropriate security controls based on features and capabilities of the Salesforce sharing model.
-Determine the appropriate use of a custom profile or permission set using the various profile settings and permissions.
+- Describe the options found in the company settings.
+- Distinguish and understand the administration of the declarative configuration of the user interface.
+- Demonstrate the proper setup and maintenance of users.
+- Explain the various organization security controls.
+- Apply the appropriate security controls based on features and capabilities of the Salesforce sharing model.
+- Determine the appropriate use of a custom profile or permission set using the various profile settings and permissions.
 
 ## Key Topics
-This unit prepares you for the configuration and setup section of the Salesforce Administrator exam, which makes up 20% of the overall exam. This section of the exam tests these topics.
+- This unit prepares you for the configuration and setup section of the Salesforce Administrator exam, which makes up 20% of the overall exam. This section of the exam tests these topics.
 
 ### UI features
 - Company information
@@ -32,8 +32,8 @@ This unit prepares you for the configuration and setup section of the Salesforce
 * Specify Company information page - organisation name, default time zone, default language
 
 * Parameters that are configured using the Locale Setting
--Time and Number display format 
--First/Last name and Date format
+- Time and Number display format 
+- First/Last name and Date format
 
 * Enable Enhanced List: gives you the ability to quickly view, customise, and edit list data to speed up your daily productivity
 
